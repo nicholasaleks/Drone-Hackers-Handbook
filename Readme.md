@@ -24,7 +24,7 @@ This repository is for educational and authorized security testing purposes only
 
 ## Errata
 Please report any mistakes, typos, broken commands, or outdated links here:
-<a href= /errata.md">errata.md</a>
+<a href="/errata.md">errata.md</a>
 
 We’ll keep this updated as readers provide feedback.
 
