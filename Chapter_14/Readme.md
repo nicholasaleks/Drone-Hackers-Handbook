@@ -1,1 +1,1 @@
-# Log Exfiltration & Analysis
+# GCS & Companion Computer Exploits

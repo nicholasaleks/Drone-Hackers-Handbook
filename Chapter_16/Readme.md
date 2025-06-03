@@ -1,1 +1,1 @@
-# Reverse Engineering Proprietary Protocols 
+# Log Exfiltration & Analysis

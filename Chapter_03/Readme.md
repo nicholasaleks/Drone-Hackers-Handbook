@@ -1,1 +1,1 @@
-# Virtual Drone Hacking Lab
+# Embedded SOftware & Edge Compute
